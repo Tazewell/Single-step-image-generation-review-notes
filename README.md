@@ -1,2 +1,2 @@
 # Single-step-image-generation-review-notes
-复盘笔记
+记录一些在学习过程中的思考和笔记
